@@ -1,13 +1,6 @@
 <h1 align="center">  Welcome to DeanVictory✌️'s World </h1>
 
 
-<div id="title" align=center>
-
-![1](https://img.shields.io/badge/正直-善良-yellow) 
-![2](https://img.shields.io/badge/勇敢-执着-red) 
-![3](https://img.shields.io/badge/的-白羊-green)
-</div>
-
 * My name is DeanVictory✌️
 * A unique robot engineer 🤔 who dares to think and act
 * Interested in new technologies 💪 🏃 and 📖
