@@ -3,9 +3,9 @@
 
 <div id="title" align=center>
 
-![](https://img.shields.io/badge/正直-善良-yellow) 
-![](https://img.shields.io/badge/勇敢-执着-red) 
-![](https://img.shields.io/badge/的-白羊-green)
+![1](https://img.shields.io/badge/正直-善良-yellow) 
+![2](https://img.shields.io/badge/勇敢-执着-red) 
+![3](https://img.shields.io/badge/的-白羊-green)
 </div>
 
 * My name is DeanVictory✌️
